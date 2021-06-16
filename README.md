@@ -12,7 +12,4 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 https://en.wikipedia.org/wiki/Cellular_automaton
 
-<img align="both">
-<br clear="both"/>
-
 ![Game Of Life](https://user-images.githubusercontent.com/47507160/122291291-f3a5bf00-cef4-11eb-9eaf-81bf0e782332.gif)
