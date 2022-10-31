@@ -2,8 +2,6 @@
 A recreation of John Conway's 'Game of Life' in Unity.
 The gif shows a **154x86** grid of cellular automata working with the rules of 'Game of Life'.
 
-## Update: I've made a new/updated Cellular Automata repo based on this one: https://github.com/stefanpgd/MINI-Cellular-Automata
-
 To make it visually more interesting I added that the cell's color strength/opacity ( its alpha ) is determined by the amount of generations it survived.
 If the cell is alive for one generation, its alpha has a value of `0.1f`.
 If it survived for ten generations ( or longer ), it's color strength is max, meaning its alpha is `1.0f`
